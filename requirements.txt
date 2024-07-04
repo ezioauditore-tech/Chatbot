@@ -1,0 +1,11 @@
+streamlit
+langchain_community
+transformers
+datasets
+torch
+soundfile
+huggingface-hub
+langchain
+base64
+playsound
+sentencepiece
